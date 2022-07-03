@@ -8,9 +8,10 @@ I'm Hank Kim, front-end developer interested in MERN Stack Development🌱 <br>
 <h3 align="center"> 🎨Tech Stack </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
+  <img src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/styled-components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/Ant-Design-0170FE.svg?&style=for-the-badge&logo=Ant-Design&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
