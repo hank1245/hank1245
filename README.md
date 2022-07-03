@@ -15,7 +15,6 @@ I'm Hank Kim, front-end developer interested in MERN Stack Development🌱 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 </p>
 
-<br>
 <h3 align="center">📞 Contact</h3>
 <p align="center">
   <a href="https://velog.io/@hank1245"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@younge"/></a>&nbsp
