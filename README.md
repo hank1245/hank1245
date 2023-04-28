@@ -3,7 +3,6 @@
 <h3 align="center"> Hi there 👋 </h3>
 <p align="center">
 I'm Hank Kim, Front-end developer interested in MERN Stack🌱 <br>
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hank1245.hank1245)
 </p>
 <h3 align="center"> 🎨Tech Stack </h3>
 
@@ -24,6 +23,7 @@ I'm Hank Kim, Front-end developer interested in MERN Stack🌱 <br>
 <p align="center">
   <a href="https://velog.io/@hank1245"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hank1245"/></a>&nbsp
   <a href="mailto:hank29206880@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dbsydde@gmail.com"/></a>
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hank1245.hank1245)
 </p>
 <br>
 
