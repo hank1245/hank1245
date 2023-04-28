@@ -4,7 +4,7 @@
 <p align="center">
 I'm Hank Kim, Front-end developer interested in MERN Stack🌱 <br>
 </p>
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sjgske.sjgske)
 <h3 align="center"> 🎨Tech Stack </h3>
 
 <p align="center">
