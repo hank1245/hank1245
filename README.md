@@ -3,8 +3,8 @@
 <h3 align="center"> Hi there 👋 </h3>
 <p align="center">
 I'm Hank Kim, Front-end developer interested in MERN Stack🌱 <br>
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hank1245.hank1245)
 </p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sjgske.sjgske)
 <h3 align="center"> 🎨Tech Stack </h3>
 
 <p align="center">
