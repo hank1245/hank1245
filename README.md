@@ -9,7 +9,7 @@ I'm Hank Kim, Front-end developer interested in MERN Stack🌱 <br>
   <img src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
    <img src ="https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
-   <img src ="https://img.shields.io/badge/AntDesign-0170FE.svg?&style=for-the-badge&logo=Ant-Design&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/TailwindCss-06B6D4.svg?&style=for-the-badge&logo=Tailwind-Css&logoColor=white"/>
    <br/>
     <img src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
