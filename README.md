@@ -8,13 +8,12 @@ I'm Hank Kim, Front-end developer interested in MERN Stack🌱 <br>
 <p align="center">
   <img src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-   <img src ="https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
      <br/>
-   <img src ="https://img.shields.io/badge/TailwindCss-06B6D4.svg?&style=for-the-badge&logo=Tailwind-Css&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/TailwindCss-06B6D4.svg?&style=for-the-badge&logo=Tailwind-Css&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
-  
+  <img src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>  
 </p>
 
 <h3 align="center">📞 Contact</h3>
