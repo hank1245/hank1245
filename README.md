@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=170&section=header&text=HankKim&fontSize=80&animation=fadeIn)
-<h3 align="center"> Hi there 👋 </h3> 
+<h3 align="center"> Hi there👋 </h3> 
 <p align="center">
 I'm Hank Kim, Front-end developer interested in MERN Stack🌱 <br>
 </p>
