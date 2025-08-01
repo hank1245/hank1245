@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Frontend Engineer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi, I’m Hank Kim — a frontend developer who is full with curiosity and creativity. <br/>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi, I’m Hank Kim — a frontend engineer who is full with curiosity and creativity. <br/>
 My main focus is on crafting modern, interactive web and mobile apps using React, React Native, and Three.js. <br/> I’m passionate about learning, and turning ideas into real, delightful experiences! </div> 
     </div>
     <div style="text-align: left;">
